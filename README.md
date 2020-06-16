@@ -1,2 +1,2 @@
 # Typing-Speed-Tester
-Lets you check your tyyping speed
+Lets you check your typing speed
